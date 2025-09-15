@@ -1,6 +1,6 @@
 Python has several built-in data types, which can be categorised as follows:
 
-**1. Numeric Types**
+<h1>**1. Numeric Types**</h1>
 
 Used to store numbers.
 
