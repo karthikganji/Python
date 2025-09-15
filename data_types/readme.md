@@ -4,11 +4,11 @@ Python has several built-in data types, which can be categorised as follows:
 
 Used to store numbers.
 
-_int _– Integer numbers (e.g., 10, -5, 0)
+_int _ – Integer numbers (e.g., 10, -5, 0)
 
 _float_ – Floating-point numbers (e.g., 3.14, -2.5)
 
-_complex _– Complex numbers (e.g., 3+5j)
+_complex _ – Complex numbers (e.g., 3+5j)
 
 **2. Sequence Types**
 
