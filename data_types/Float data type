@@ -1,0 +1,31 @@
+Float data type
+===============
+A number with a decimal point is known as float number
+eg. 10.23, 3.14
+Like we have converted numeric data types one to another, here we can't convert
+There are many ways to represent
+
+1. Standard (decimal representation)
+=====================================
+This is used for short numbers like 3.493 or -1.332, etc
+
+But if there is a big decimal number, then it would be hard to write. To overcome this, we use 
+
+2. Scientific (Exponential) Notation
+=====================================
+The main advantage of this Exponential notation is that when there is a long decimal number, we will use this method 
+					I/P	OPERATION	O/P
+					c=1.5e3	    1.5× 10³	1500.0
+					d = 2E-4	2 × 10⁻⁴	0.0002
+					e= 1.5e8	1.5 x 10³	150000000.0
+Using e or E to represent powers of 10:
+
+§ Summary §
+=============
+Ways to represent a float in Python:
+a) Decimal form (3.14) 
+b) Scientific notation (1.5e8) =====>150000000.0
+c) Leading/trailing dot (.5, 10.)
+d) Special values (inf, -inf, nan)
+e) Underscore separators (1_000.5)
+f) Casting from int/string (float(5), float("3.14"))  =====> converts from int/string to float
